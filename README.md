@@ -1,4 +1,4 @@
-## Oiii eu sou o Anderson Ferreira de Moraes, gosto de programação e tecnologia!
+## Oiii eu sou o Anderson Ferreira de Moraes, Programação e Tecnologia!
 <div align="center">
   <a href="https://github.com/AndersonFerreiradeMoraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonFerreiradeMoraes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
