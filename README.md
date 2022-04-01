@@ -15,7 +15,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div><br>
-Em
+
     
   ##
  
@@ -27,4 +27,4 @@ Em
   ![Animação de cobra](https://github.com/AndersonFerreiradeMoraes/AndersonFerreiradeMoraes/blob/output/github-contribution-grid-snake.svg)
   
 </div>
- em 
+
