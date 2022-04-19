@@ -3,8 +3,8 @@
 <h1 align="center"> Oi Eu sou o <a href="https://www.linkedin.com/in/anderson-ferreira-993ab9213/"><i>Anderson Ferreira</i></a>😁</h1>
 <div align="center">
 <a href="https://github.com/AndersonFerreiradeMoraes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonFerreiradeMoraes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFerreiradeMoraes&layout=compact&langs_count=7&theme=gotham"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonFerreiradeMoraes&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFerreiradeMoraes&layout=compact&langs_count=7&theme=swift"/>
 </div>
   <div align="center" valign="top"><br>
   <div style="display: inline_block"><br>
